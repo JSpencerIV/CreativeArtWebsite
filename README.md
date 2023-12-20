@@ -1,7 +1,6 @@
 # CreativeArtWebsite
 Emerging Artist collaborative site
 
-Elements Needed for site:
 
 Elements Needed:
 
